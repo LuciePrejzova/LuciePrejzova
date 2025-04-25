@@ -1,8 +1,12 @@
 Hi, I'm Lucie 
 
 I'm a developer who enjoys continuous learning.
-Right now, I work mostly with ServiceNow, building workflows and custom business solutions.
-Outside of work, I spend time on full-stack projects — using React and Spring Boot to create real-world apps.
+
+Right now, I work mostly with ServiceNow, where I use JavaScript to customize features daily.
+Outside of work, I spend time building an absence management app for a kindergarten lately.
+I've also done an extensive course to learn React to be able to use it for future front-end development.
+Being able to see a project built from the first draft on paper to deployment brings me real joy.
+
 ----------------------------------------------------------
 
 🔧 Tech I work with:
